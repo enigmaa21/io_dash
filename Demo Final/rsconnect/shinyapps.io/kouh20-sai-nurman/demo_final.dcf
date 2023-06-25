@@ -1,0 +1,14 @@
+name: demo_final
+title:
+username:
+account: kouh20-sai-nurman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9360722
+bundleId: 7384970
+url: https://kouh20-sai-nurman.shinyapps.io/demo_final/
+when: 1687676497.01644
+lastSyncTime: 1687676497.01645
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
